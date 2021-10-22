@@ -1,3 +1,4 @@
 # Subway Surfers with Hand Motion
 
-![images](https://user-images.githubusercontent.com/57898986/138443836-fb18a33a-7812-49e6-8b01-0ca9f01d1606.jpg)
+![wp2315426-subway-surfers-wallpapers](https://user-images.githubusercontent.com/57898986/138444182-2cfea04a-292b-4630-b0a4-80aabbbdcd3e.png)
+
