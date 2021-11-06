@@ -1,6 +1,6 @@
 # Subway Surfers with Hand Motions
 
-![image](https://user-images.githubusercontent.com/57898986/139538138-b3455166-59ec-4d5a-b52c-3c8adb3f7391.png)
+![img](https://user-images.githubusercontent.com/57898986/140607483-332a70eb-05ba-44d3-b1e7-b6d3a9036597.png)
 
 
 ## Object Detection Model
