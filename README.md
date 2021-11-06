@@ -11,7 +11,7 @@ Model used for detection is SSD_MobileNet_V2_FPNLite from Tensorflow Object Dete
 
 Used custom dataset consisting of 250 train images and 50 test images for each class.<br><br>
 
-The link for the video [YouTube](https://www.youtube.com/watch?v=LYiCKA1DeFg).
+The link for the working video [YouTube](https://www.youtube.com/watch?v=LYiCKA1DeFg).
 
 
 
